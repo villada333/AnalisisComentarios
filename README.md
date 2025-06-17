@@ -266,7 +266,7 @@ python -c "import transformers as tfm; print(tfm.__version__)"
 ## Pruebas
 
 <p align="center">
-  <img src="img/bert.png" alt="Bert" width="300"/>
-  <img src="img/beto.png" alt="Beto" width="300"/>
-  <img src="img/distilbert.png" alt="Distilbert" width="300"/>
+  <img src="img/bert.png" alt="Bert" width="700"/>
+  <img src="img/beto.png" alt="Beto" width="700"/>
+  <img src="img/distilbert.png" alt="Distilbert" width="700"/>
 </p>
